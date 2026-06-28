@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# SadTalker backend
+third_party/
+checkpoints/
+gfpgan/
+results/
+outputs/
+*.mp4
+*.wav.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
