@@ -1,25 +1,16 @@
-# Python
+# Colab / runtime artifacts (local testing only)
 .venv/
-__pycache__/
-*.py[cod]
-*.egg-info/
-dist/
-build/
-
-# SadTalker backend
-third_party/
 checkpoints/
-gfpgan/
+third_party/
 results/
 outputs/
+uploads/
 *.mp4
 *.wav.tmp
 
 # OS
 .DS_Store
-Thumbs.db
 
-# IDE
-.idea/
-.vscode/
-*.swp
+# Python cache
+__pycache__/
+*.py[cod]
